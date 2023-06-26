@@ -75,12 +75,6 @@
 
   }
 
- @media(max-width: 778px) {
-    .video-grid{
-      grid-template-columns: 1fr;
-    }
-
-  }
 
   .video-time{
     position: absolute;
